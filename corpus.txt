@@ -1,0 +1,8 @@
+['julie', 'wheat', 'cracker', 'pola', 'snack', 'balado', 'xg', 'julie', 'peanut', 'butter', 'sandwich', 'calbee', 'potato', 'chip', 'hot', 'spicy']
+['melona', 'strawberry', 'flavoured', 'ice', 'bar', 'cornetto', 'royale', 'unicornetto', 'ml', 'kit', 'kat', 'stick', 'gold', 'ml', 'milo', 'stick', 'ml', 'melona', 'melon', 'flavoured', 'ice', 'bar']
+['yeos', 'lychee', 'drink', 'ml', 'vitamin', 'water', 'triple', 'berry', 'ml', 'pokka', 'green', 'tea', 'peppermint', 'sprite', 'ml', 'plus', 'edge', 'ml', 'ufc', 'coconut', 'water', 'ml', 'coke', 'milo', 'ml', 'magnolia', 'fresh', 'milk', 'ml', 'pokka', 'green', 'tea', 'coke', 'ml', 'pokka', 'peach', 'tea', 'pokka', 'peach', 'tea', 'ml', 'pokka', 'green', 'tea', 'ml']
+['sunshine', 'chocolate', 'cream', 'roll', 'sunshine', 'butter', 'sugar', 'enriched', 'cream', 'roll', 'gardenia', 'high', 'fibre', 'bread']
+['viceroy', 'hokkaido', 'mint', 'menthol', 'super', 'lm', 'green', 'xl', 'iplay', 'green', 'winston', 'classic', 'winston', 'classic']
+['nivea', 'men', 'sport', 'ml']
+['yu', 'yee', 'oil', 'ml']
+['sour', 'power', 'quarttro', 'apple', 'strawberry']
